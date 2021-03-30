@@ -2,10 +2,14 @@
        Résolution par algorithme génétique avec GeneticSharp
        
        
-Rajae Lakhnati 
-Kaoutar Lehlous 
-Farah Abbes
-soumaya ayatillah
+/* 
+
+* Rajae Lakhnati 
+* Kaoutar Lehlous 
+* Farah Abbes
+* soumaya ayatillah 
+
+*/
 
 
 
