@@ -50,5 +50,10 @@ Genomes.Sort();
 * il suffit d’écrire le top 20
 * juste imprimer toutes les 100 générations
 
+**Voici le résultat obtenu par le programme**
+
+![image](https://user-images.githubusercontent.com/75318261/113020130-96666100-9182-11eb-8585-aeec9bea70a3.png)
+
+
 
 
