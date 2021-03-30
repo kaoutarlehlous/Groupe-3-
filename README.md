@@ -21,4 +21,17 @@ présenté dans l’article suivant " https://arxiv.org/ftp/arxiv/papers/0805/08
 
 ![image](https://user-images.githubusercontent.com/75318261/113018756-286d6a00-9181-11eb-9773-729ff0a81bae.png)
 
+![image](https://user-images.githubusercontent.com/75318261/113019094-85692000-9181-11eb-89c2-19e15441d600.png)
+
+
+
+![image](https://user-images.githubusercontent.com/75318261/113019187-9b76e080-9181-11eb-9f7b-0e5a5282da9c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/75318261/113019236-a7fb3900-9181-11eb-8377-83b848332eab.png)
+
+
+
+
 
