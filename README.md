@@ -54,6 +54,7 @@ Genomes.Sort();
 
 ![image](https://user-images.githubusercontent.com/75318261/113020130-96666100-9182-11eb-8585-aeec9bea70a3.png)
 
+![image](https://user-images.githubusercontent.com/75318261/113021264-b34f6400-9183-11eb-9938-c0dc2fba3295.png)
 
 
 
