@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/75318261/113597157-94494a00-963b-11eb-8b14-3494d47d2537.png)
 
 
-![image](https://user-images.githubusercontent.com/75318261/113605216-a41a5b80-9646-11eb-919f-d1dcc513dfd8.png)
+
 
 
 Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
