@@ -7,19 +7,20 @@
 
 ![image](https://user-images.githubusercontent.com/75318261/113681177-f5b3fc00-96c1-11eb-8a07-ce7407adc796.png)
 
-Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
+
 
 ![image](https://user-images.githubusercontent.com/75318261/113680013-b507b300-96c0-11eb-9ac9-2825aca8da59.png)
 
 
-GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
+Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
+
 
 
 ![image](https://user-images.githubusercontent.com/75318261/113597157-94494a00-963b-11eb-8b14-3494d47d2537.png)
 
 
 
-
+GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
 
 ![image](https://user-images.githubusercontent.com/75318261/113682137-192b7680-96c3-11eb-957f-3c08e1fae2f3.png)
 
