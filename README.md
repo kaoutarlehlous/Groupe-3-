@@ -30,22 +30,7 @@ GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extens
 
 ![image](https://user-images.githubusercontent.com/75318261/113682137-192b7680-96c3-11eb-957f-3c08e1fae2f3.png)
 
-Qu'est-ce qu'un algorithme génétique : 
 
-1.Population.                                        
-Individual []
-
-2.individu (représenté par des gènes)                
-Int[], char[], My class[]
-
-3.Sélection naturelle 
-Float CalculateFitness()
-
-4.la reproduction                                    
-Individual Crossover()
-
-5.Mutation                                           
-void Mutate()
 
 Peut être utilisé dans tout type d'applications .NET Core et .NET Framework, comme les jeux ASP .NET MVC, ASP .NET Core, Blazor, Web Forms, UWP, Windows Forms, GTK #, Xamarin et Unity3D.
 
