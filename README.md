@@ -1,15 +1,9 @@
 # Groupe-3-
-       Résolution par algorithme génétique avec GeneticSharp
+      
        
        
-/* 
+![image](https://user-images.githubusercontent.com/75318261/113682520-8b9c5680-96c3-11eb-8fdc-1e8e06d8bc7f.png)
 
-* Rajae Lakhnati 
-* Kaoutar Lehlous 
-* Farah Abbes
-* soumaya ayatillah 
-
-*/
 
 ![image](https://user-images.githubusercontent.com/75318261/113681177-f5b3fc00-96c1-11eb-8a07-ce7407adc796.png)
 
