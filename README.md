@@ -7,21 +7,18 @@
 
 ![image](https://user-images.githubusercontent.com/75318261/113681177-f5b3fc00-96c1-11eb-8a07-ce7407adc796.png)
 
-La façon dont Sudoku fonctionne est que vous recevez une grille comme celle illustrée dans la figure 2 contenant des nombres. Le but de Sudoku est de remplir la grille avec tous les nombres de telle manière que chaque ligne, colonne et carré gras 3x3 ait un numéro unique 1-9.
-
-
-
+Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
 
 ![image](https://user-images.githubusercontent.com/75318261/113680013-b507b300-96c0-11eb-9ac9-2825aca8da59.png)
 
 
-Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
+GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
 
 
 ![image](https://user-images.githubusercontent.com/75318261/113597157-94494a00-963b-11eb-8b14-3494d47d2537.png)
 
 
-GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
+
 
 
 ![image](https://user-images.githubusercontent.com/75318261/113682137-192b7680-96c3-11eb-957f-3c08e1fae2f3.png)
@@ -34,12 +31,11 @@ Notre sujet concerne une résolution par algorithme génétique avec GeneticShar
 
 
 
+![image](https://user-images.githubusercontent.com/75318261/113018756-286d6a00-9181-11eb-9773-729ff0a81bae.png)
+
 Conception
 
 La conception a été tirée de l'article  " https://arxiv.org/ftp/arxiv/papers/0805/0805.0697.pdf " et adaptée pour produire un génome de Sudoku. Le SudokuGenome contient un tableau d'entiers rectangulaires 9x9. Le génome peut effectuer des fonctions GA de base telles que Mutate, Crossover, Calculate Fitness et Initialize. La classe Population contient le pool de gènes et peut manipuler les gènes du pool pour produire la génération suivante
-
-
-![image](https://user-images.githubusercontent.com/75318261/113018756-286d6a00-9181-11eb-9773-729ff0a81bae.png)
 
 ![image](https://user-images.githubusercontent.com/75318261/113019094-85692000-9181-11eb-89c2-19e15441d600.png)
 
