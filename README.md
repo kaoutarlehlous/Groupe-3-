@@ -48,6 +48,10 @@ Notre sujet concerne une résolution par algorithme génétique avec GeneticShar
 
 La façon dont Sudoku fonctionne est que vous recevez une grille comme celle illustrée dans la figure 2 contenant des nombres. Le but de Sudoku est de remplir la grille avec tous les nombres de telle manière que chaque ligne, colonne et carré gras 3x3 ait un numéro unique 1-9.
 
+Conception
+
+La conception a été tirée de l'article  " https://arxiv.org/ftp/arxiv/papers/0805/0805.0697.pdf " et adaptée pour produire un génome de Sudoku. Le SudokuGenome contient un tableau d'entiers rectangulaires 9x9. Le génome peut effectuer des fonctions GA de base telles que Mutate, Crossover, Calculate Fitness et Initialize. La classe Population contient le pool de gènes et peut manipuler les gènes du pool pour produire la génération suivante
+
 
 ![image](https://user-images.githubusercontent.com/75318261/113018756-286d6a00-9181-11eb-9773-729ff0a81bae.png)
 
@@ -80,6 +84,9 @@ La façon dont Sudoku fonctionne est que vous recevez une grille comme celle ill
 * imprimer toutes les 100 générations
 
 **Voici le résultat obtenu par le programme**
+
+
+
 
 ![image](https://user-images.githubusercontent.com/75318261/113020130-96666100-9182-11eb-8585-aeec9bea70a3.png)
 
