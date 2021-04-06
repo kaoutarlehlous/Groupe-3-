@@ -5,6 +5,12 @@
  
 ![image](https://user-images.githubusercontent.com/75318261/113682753-c3a39980-96c3-11eb-8ce7-31341cec6509.png)
 
+
+
+Conception
+
+La conception a été tirée de l'article  " https://arxiv.org/ftp/arxiv/papers/0805/0805.0697.pdf " et adaptée pour produire un génome de Sudoku. Le SudokuGenome contient un tableau d'entiers rectangulaires 9x9. Le génome peut effectuer des fonctions GA de base telles que Mutate, Crossover, Calculate Fitness et Initialize. La classe Population contient le pool de gènes et peut manipuler les gènes du pool pour produire la génération suivante
+
 ![image](https://user-images.githubusercontent.com/75318261/113681177-f5b3fc00-96c1-11eb-8a07-ce7407adc796.png)
 
 
@@ -30,9 +36,7 @@ Notre sujet concerne une résolution par algorithme génétique avec GeneticShar
 
 ![image](https://user-images.githubusercontent.com/75318261/113018756-286d6a00-9181-11eb-9773-729ff0a81bae.png)
 
-Conception
 
-La conception a été tirée de l'article  " https://arxiv.org/ftp/arxiv/papers/0805/0805.0697.pdf " et adaptée pour produire un génome de Sudoku. Le SudokuGenome contient un tableau d'entiers rectangulaires 9x9. Le génome peut effectuer des fonctions GA de base telles que Mutate, Crossover, Calculate Fitness et Initialize. La classe Population contient le pool de gènes et peut manipuler les gènes du pool pour produire la génération suivante
 
 ![image](https://user-images.githubusercontent.com/75318261/113019094-85692000-9181-11eb-89c2-19e15441d600.png)
 
