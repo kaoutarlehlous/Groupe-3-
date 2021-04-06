@@ -13,6 +13,9 @@
 
 
 
+Sudoku Concept
+
+
 La variante la plus simple de Sudoku utilise une grille 9 × 9 de cellules divisées en neuf
 Sous-grilles 3 × 3 (Figure 1 (à gauche)). Le but du puzzle est de remplir la grille avec chiffres tels que chaque ligne, chaque colonne et chaque sous-grille 3 × 3 contienne tous des chiffres 1 à 9. 
 
