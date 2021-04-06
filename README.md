@@ -11,17 +11,21 @@
 
 */
 
-![image](https://user-images.githubusercontent.com/75318261/113597157-94494a00-963b-11eb-8b14-3494d47d2537.png)
 
 
+La variante la plus simple de Sudoku utilise une grille 9 × 9 de cellules divisées en neuf
+Sous-grilles 3 × 3 (Figure 1 (à gauche)). Le but du puzzle est de remplir la grille avec chiffres tels que chaque ligne, chaque colonne et chaque sous-grille 3 × 3 contienne tous des chiffres 1 à 9. 
 
+![image](https://user-images.githubusercontent.com/75318261/113680013-b507b300-96c0-11eb-9ac9-2825aca8da59.png)
 
 
 Le monde de l'IA et des algorithmes génétiques d'inspiration biologique repose sur des concepts simplifiés tirés de la biologie et du domaine de la génétique. 
 
 
-GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
+![image](https://user-images.githubusercontent.com/75318261/113597157-94494a00-963b-11eb-8b14-3494d47d2537.png)
 
+
+GeneticSharp est une bibliothèque d'algorithmes génétiques C # rapide, extensible, multiplateforme et multithreading qui simplifie le développement d'applications utilisant des algorithmes génétiques (GA).
 
 
 
@@ -89,6 +93,10 @@ La conception a été tirée de l'article  " https://arxiv.org/ftp/arxiv/papers/
 
 
 ![image](https://user-images.githubusercontent.com/75318261/113020130-96666100-9182-11eb-8585-aeec9bea70a3.png)
+
+L'algorithme de fitness parcourt d'abord chaque colonne du génome de Sudoku et utilise le nombre contenu dans la cellule comme clé de hachage. Une valeur est ajoutée au ColumnMap avec la clé de hachage dans chaque cellule. Une fois qu'une colonne entière est traversée, l'algorithme examine le nombre de ColumnMap. 
+
+Si chaque clé de la colonne est unique, alors le ColumnMap contient un total de 9 valeurs. Si la colonne contient quelques doublons, le nombre total dans le ColumnMap sera toujours inférieur à 9.
 
 ![image](https://user-images.githubusercontent.com/75318261/113021264-b34f6400-9183-11eb-9938-c0dc2fba3295.png)
 
